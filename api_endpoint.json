@@ -1,4 +1,4 @@
 {
   "_comment": "Read by the desktop pet app on startup to find the bot's API — lets the host move without needing everyone to redownload. Edit 'url' here and commit whenever the bot moves hosts.",
-  "url": "http://91.239.208.137:25787"
+  "url": "http://999.999.999.999:9999"
 }
